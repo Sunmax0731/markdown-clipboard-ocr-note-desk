@@ -1,0 +1,32 @@
+{
+  "pickupRank": 44,
+  "domain": "WindowsApp",
+  "ideaNo": 2,
+  "idea": "Markdown・クリップボード・OCRノートデスク",
+  "repository": "markdown-clipboard-ocr-note-desk",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaFolder": "D:/AI/WindowsApp/created_idea_002_markdown-clipboard-ocr-note-desk",
+  "zipFile": "D:/AI/WindowsApp/created_idea_002_markdown-clipboard-ocr-note-desk/idea_002_markdown-clipboard-ocr-note-desk.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "markdown-clipboard-ocr-note-desk",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/WindowsApp/Design.md",
+    "D:/AI/IDEAS/WindowsApp/Architecture.md",
+    "D:/AI/IDEAS/WindowsApp/AGENTS.md",
+    "D:/AI/IDEAS/WindowsApp/SKILL.md",
+    "D:/AI/WindowsApp/AGENTS.md",
+    "D:/AI/WindowsApp/SKILL.md"
+  ],
+  "hostInference": null
+}

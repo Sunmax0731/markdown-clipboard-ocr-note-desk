@@ -1,0 +1,19 @@
+{
+  "name": "markdown-clipboard-ocr-note-desk",
+  "title": "Markdown・クリップボード・OCRノートデスク",
+  "domain": "WindowsApp",
+  "kind": "windows-app",
+  "host": null,
+  "field": "ローカルノート作成",
+  "audience": "Windowsで制作メモ、OCR、Markdown整理を行う個人制作者",
+  "workflow": "クリップボード、OCRテキスト、Markdown見出しをローカルで整理し、出力前に不足を検査する。",
+  "requiredFields": [
+    "noteTitle",
+    "sourceType",
+    "markdownBody",
+    "destination"
+  ],
+  "warningField": "ocrConfidenceLow",
+  "warningMessage": "OCR信頼度が低く、原画像との照合が必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
