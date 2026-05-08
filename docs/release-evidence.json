@@ -1,0 +1,32 @@
+{
+  "product": "markdown-clipboard-ocr-note-desk",
+  "repository": "Sunmax0731/markdown-clipboard-ocr-note-desk",
+  "githubUrl": "https://github.com/Sunmax0731/markdown-clipboard-ocr-note-desk",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/markdown-clipboard-ocr-note-desk/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "markdown-clipboard-ocr-note-desk-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "windows-local-app",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/markdown-clipboard-ocr-note-desk",
+    "url": "https://github.com/Sunmax0731/markdown-clipboard-ocr-note-desk",
+    "releaseUrl": "https://github.com/Sunmax0731/markdown-clipboard-ocr-note-desk/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}
